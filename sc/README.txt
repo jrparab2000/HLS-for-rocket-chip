@@ -6,7 +6,6 @@ with the Spike RISCV ISA simulator.
  - Source the setup script with the command "source ../setup.sh"
  - Build the main.x executable with the command "make"
  - Change to another directory containing the rocket_sim
-     tutorial files (already copied for you in ../rocket_sim)
  - Execute (simulate) the project with the commands "make"
      and  "make sim" in the rocket_sim directory.
  - Repeat the "make" commands in each directory, followed by
